@@ -3,7 +3,7 @@ ENV_CONFIG = {
     "num_episodes":200,
     "initial_inventory": 50,
     "max_order": 60,
-    "lead_time": 10,
+    "lead_time": 10,  # Set to 0, 3, 6 or 10
     "action_bins": [0,5,10,15,20,25,30,40],
     "inv_position_scale": 200,
     "demand_history_len": 5,
