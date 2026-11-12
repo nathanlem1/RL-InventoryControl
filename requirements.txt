@@ -1,0 +1,14 @@
+numpy
+scipy
+matplotlib
+seaborn
+pandas
+pytest
+gymnasium
+sklearn
+sb3_contrib
+sb3_contrib
+tbparse
+
+
+
