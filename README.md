@@ -50,3 +50,7 @@ If you use this code for your research, please cite our paper.
 ```
 
 ```
+
+## Acknowledgement
+
+This code is written by Alex Haines (1st author) and refactored by Nathanael L. Baisa (2nd author).
