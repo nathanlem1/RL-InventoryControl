@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 
 ## Training and Evaluation
-To run the code, the following on terminal. Please look into code for more information.
+For training and evaluation, run the following code on terminal. Please look into code for more information.
 
 ```shell
 python train.py 
