@@ -1,5 +1,5 @@
 # RL-InventoryControl
-This code implements the paper [Reinforcement Learning for Inventory Control under Regime-Switching Demand: A Controlled Comparison of LSTM, MLP, and (s,S) Policies]().
+This code implements the paper [Reinforcement Learning for Inventory Control under Regime-Switching Demand: A Controlled Comparison of LSTM, MLP, and (s,S) Policies](https://arxiv.org/abs/2611.15945).
 
 
 ## Overview
@@ -48,7 +48,15 @@ python train.py
 If you use this code for your research, please cite our paper.
 
 ```
-
+@misc{HainesBaisa2026,
+      title={Reinforcement Learning for Inventory Control under Regime-Switching Demand: A Controlled Comparison of LSTM, MLP, and (s,S) Policies}, 
+      author={Alex Haines and Nathanael L. Baisa},
+      year={2026},
+      eprint={2611.15945},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2611.15945}, 
+}
 ```
 
 ## Acknowledgement
